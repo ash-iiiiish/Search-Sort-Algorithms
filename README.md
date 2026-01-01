@@ -44,6 +44,7 @@ DSA-Algorithms-main/
 
 > Note: `.exe` files are compiled outputs and can be ignored.
 
+
 ## Installation
 To run the programs, you need a **C compiler** such as `gcc`.  
 On Linux/macOS, you can install GCC using:
