@@ -86,7 +86,3 @@ Run a searching algorithm:
 gcc searching_algorithms/Binary_Search.c -o binary_search
 ./binary_search
 ```
-
-## Contribut
-Feel free to open issues or submit pull rets with improvements, bug fixes, or new algorithm implementations.
-
