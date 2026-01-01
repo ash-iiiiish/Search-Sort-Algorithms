@@ -86,3 +86,6 @@ Run a searching algorithm:
 gcc searching_algorithms/Binary_Search.c -o binary_search
 ./binary_search
 ```
+
+## 👨‍💻 Contributors
+- [@ash-iiiiish](https://github.com/ash-iiiiish)
