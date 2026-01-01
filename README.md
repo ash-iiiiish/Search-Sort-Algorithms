@@ -87,7 +87,6 @@ gcc searching_algorithms/Binary_Search.c -o binary_search
 ./binary_search
 ```
 
-## Contributing
-Contributions are welcome!  
-Feel free to open issues or submit pull requests with improvements, bug fixes, or new algorithm implementations.
+## Contribut
+Feel free to open issues or submit pull rets with improvements, bug fixes, or new algorithm implementations.
 
