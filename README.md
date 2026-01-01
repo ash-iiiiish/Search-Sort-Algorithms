@@ -91,6 +91,3 @@ gcc searching_algorithms/Binary_Search.c -o binary_search
 Contributions are welcome!  
 Feel free to open issues or submit pull requests with improvements, bug fixes, or new algorithm implementations.
 
-## License
-This project is licensed under the MIT License.  
-
