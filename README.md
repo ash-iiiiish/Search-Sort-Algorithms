@@ -1,4 +1,4 @@
-# DSA Algorithms in C:
+# DSA Algorithms in C:-
 
 
 ## Introduction
