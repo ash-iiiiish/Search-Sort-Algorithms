@@ -1,4 +1,4 @@
-# DSA Algorithms in C:
+# DSA Algorithms in C:-
 
 ## Introduction:
 This repository contains implementations of fundamental **Data Structures and Algorithms (DSA)** in the C programming language.  
