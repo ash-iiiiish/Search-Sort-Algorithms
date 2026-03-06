@@ -16,7 +16,7 @@ It is designed as a reference and practice resource for students, beginners, and
 - [License](#license)
 
 
-## Directory Structure
+## Directory Structure:
 ```
 DSA-Algorithms-main/
 ├── basics/
